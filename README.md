@@ -14,3 +14,6 @@ The vine_df was created, and then filtered for more than 20 total votes, and mor
 ![image](https://user-images.githubusercontent.com/70069730/153780883-4b6e45d0-6146-47bb-ab03-65b8afe93aef.png)
 
 ### How many Vine reviews and non-Vine reviews were there?
+![image](https://user-images.githubusercontent.com/70069730/153780914-d73d0af2-1401-48af-a217-7f09ef80eb0d.png)
+
+For the Watch dataset, there were 47 Vine reviews and 8,362 Non-Vine reviews.
