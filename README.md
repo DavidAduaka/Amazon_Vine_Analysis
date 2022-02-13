@@ -8,3 +8,9 @@ For this Challenge, I was tasked with analyzing Amazon reviews written by member
 The vine_df was created, and then filtered for more than 20 total votes, and more than 50% helpful. This became the vine_helpful_df, and all calculations were performed on this dataframe. The Vine and Non-Vine dataframes were created by filtering the vine column for Y and N respectively.
 
 ### Vine 
+![image](https://user-images.githubusercontent.com/70069730/153780848-61be13cd-44bf-4fa5-a9d9-589d383d7e27.png)
+
+### Non-Vine
+![image](https://user-images.githubusercontent.com/70069730/153780883-4b6e45d0-6146-47bb-ab03-65b8afe93aef.png)
+
+### How many Vine reviews and non-Vine reviews were there?
