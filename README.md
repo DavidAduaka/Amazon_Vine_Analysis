@@ -17,3 +17,9 @@ The vine_df was created, and then filtered for more than 20 total votes, and mor
 ![image](https://user-images.githubusercontent.com/70069730/153780914-d73d0af2-1401-48af-a217-7f09ef80eb0d.png)
 
 For the Watch dataset, there were 47 Vine reviews and 8,362 Non-Vine reviews.
+
+### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
+In each instance, a five_star dataframe had to be created by filtering the star_rating == 5.
+![image](https://user-images.githubusercontent.com/70069730/153781094-62e3aac2-3897-430b-ab17-b173ccb02231.png)
+There were only 15 five-star Vine reviews, while there were 4,332 five-star Non-Vine reviews.
