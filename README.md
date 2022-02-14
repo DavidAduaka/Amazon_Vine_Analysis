@@ -25,3 +25,29 @@ In each instance, a five_star dataframe had to be created by filtering the star_
 ![image](https://user-images.githubusercontent.com/70069730/153781094-62e3aac2-3897-430b-ab17-b173ccb02231.png)
 
 There were only 15 five-star Vine reviews, while there were 4,332 five-star Non-Vine reviews.
+
+What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+Finally, 2 calculations needed to be performed using variables I already created. The image below depicts this.
+
+![image](https://user-images.githubusercontent.com/70069730/153781185-7b863806-59f3-41d6-8490-bdaadc83d09c.png)
+
+31.9% of Vine reviews were 5 stars. 51.8% of Non-Vine reviews were 5 stars.
+
+## Summary 
+- There were a total of 8,409 reviews for watches in this dataset. There were 47 Vine reviews and 8,362 Non-Vine reviews.
+- There were only 15 five-star Vine reviews, while there were 4,332 five-star Non-Vine reviews.
+- 31.9% of Vine reviews were 5 stars. 51.8% of Non-Vine reviews were 5 stars.
+- Because Vine reviews did not result in a greater percentage of 5-star reviews than Non-Vine reviews, I can conclude that there is no positivity bias related to Vine reviews.
+
+I performed an additional analysis that looked at the average star rating for Vine and Non-Vine reviews.
+
+![image](https://user-images.githubusercontent.com/70069730/153781236-fdf460b4-505f-4483-b874-ed4180fac437.png)
+
+The average for Vine reviews is 3.9, and the average for Non-Vine reviews is 3.8. These are relatively close, and supports my previous conclusion. To further support it, I also looked at the percent of Vine and Non-Vine reviews to the total.
+
+![image](https://user-images.githubusercontent.com/70069730/153781253-dd0d2ff1-54f6-47de-a364-67a3a5711173.png)
+
+Over 99% of watch reviews were Non-Vine. This further indicates no positivity bias towards Vine reviews, as consumers saw significantly more Non-Vine reviews to help make their purchase determination.
+
+
